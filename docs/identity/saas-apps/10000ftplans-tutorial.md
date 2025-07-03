@@ -12,7 +12,7 @@ ms.author: gideonkiratu
 ms.custom: sfi-image-nochange
 # Customer intent: As an IT administrator, I want to learn how to configure single sign-on between Microsoft Entra ID and 10,000 ft Plans so that I can control who has access to 10,000 ft Plans, enable automatic sign-in with Microsoft Entra accounts, and manage my accounts in one central location.
 ---
-# Configure 10,000ft Plans for Single sign-on with Microsoft Entra ID
+# Configure 10,000ft Plans for Single sign-on with Microsoft Entra ID-test
 
 In this article,  you learn how to integrate 10,000ft Plans with Microsoft Entra ID. When you integrate 10,000ft Plans with Microsoft Entra ID, you can:
 
